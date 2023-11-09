@@ -1,5 +1,5 @@
 # inspirationquote_scrapping
-Title: "Quote of the Day Scraper"
+Title: "InspirationalQuote Scraper"
 
 Description:
 Developed a Python script that scrapes a "Inspirational quote" from a designated website and displays it to the user in the terminal.
